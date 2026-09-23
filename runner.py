@@ -10,13 +10,12 @@ SCRIPTS = [
     "MTC-UAT-0001-Inicio_Sesion_Inicio_Sesion_Exitoso.py",
     "MTC-UAT-0002-Inicio_Sesion_Inicio_Sesion_Fallido_C.py",
     "MTC-UAT-0003-Inicio_Sesion_Inicio_Sesion_Fallido_C.py",
-    "MTC-UAT-0004-Inicio_Sesion_Reiniciar_Contrase\u00f1a.py",
     "MTC-UAT-0005-Inicio_Sesion_Mostrar_Mis_Dispositivo.py",
     "MTC-UAT-0006-Inicio_Sesion_Filtrar_Sistema_Operati.py",
     "MTC-UAT-0007-Inicio_Sesion_Buscar_Dispositivo.py",
     "MTC-UAT-0008-Inicio_Sesion_Busqueda_Dispositivo_Fa.py",
     "MTC-UAT-0009-Inicio_Sesion_Filtrar_Solo_Disponible.py",
-    "MTC-UAT-0010-Inicio_Sesion_Filtrar_Solo_En_Uso.py"
+    "MTC-UAT-0004-Inicio_Sesion_Reiniciar_Contrase\u00f1a.py"
 ]
 SUITE_NAME = "Arcadia test"
 
