@@ -10,7 +10,7 @@ def run(playwright: Playwright) -> None:
     page.get_by_role("textbox", name="Usuario").click()
     page.get_by_role("textbox", name="Usuario").fill("alexander.leal@itw.mx")
     page.get_by_role("textbox", name="Usuario").press("Tab")
-    page.get_by_role("textbox", name="Contraseña").fill("ka9DSuN[sL(")
+    page.get_by_role("textbox", name="Contraseña").fill(")kHi)T6!")
     page.get_by_role("textbox", name="Usuario").click()
 
     page.get_by_role("button", name="Iniciar Sesión").click()
